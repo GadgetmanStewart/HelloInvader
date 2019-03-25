@@ -1,0 +1,10 @@
+.vs/
+.vscode/
+.DS_Store
+bin/
+obj/
+*.user
+launchSettings.json
+artifacts/
+msbuild.binlog
+BenchmarkDotNet.Artifacts/
