@@ -6,7 +6,8 @@ namespace HelloInvader
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Invader #2!");
+            Console.WriteLine("Hello Invader Branch1");
+            Console.WriteLine("Branch1");
         }
     }
 }
